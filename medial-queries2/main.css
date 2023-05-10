@@ -57,6 +57,9 @@ section {
     width: 40vw;
     height: 80vh;
   }
+  .f{ margin: 0;
+  margin-left: 5px;
+margin-right: 5px;}
 
   
 }
