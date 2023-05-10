@@ -11,6 +11,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   height: 100vh;
+  margin: 5px;
 }
 
 .a, .c{
